@@ -44,7 +44,7 @@ Feel free to contribute!
 
 ### Key Blueprints
 - `BP_TopDownCharacter`: Manages the `MGSpatialSelectionComponent` for selection.
-- ``: Example of a selectable actor implementing the interface.
+- `SelectionTestActor_BP`: Example of a selectable actor implementing the interface.
 
 ### Features in Action
 - **High-Performance Selection**: Uses native `UBoxComponent` for efficient overlap detection.
