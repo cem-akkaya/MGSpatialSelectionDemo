@@ -1,4 +1,4 @@
-﻿﻿# Do not ignore git files in the root of the repo.
+﻿# Do not ignore git files in the root of the repo.
 !/.git*
 
 # Do not ignore current project's `.uproject`.
